@@ -1,4 +1,4 @@
-# Attention: this is a modified version of the Marlin source. [Follow this link for the original source](https://github.com/MarlinFirmware/Marlin/)
+# Attention: this is a modified version of the [Marlin source](https://github.com/MarlinFirmware/Marlin/).
 
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
